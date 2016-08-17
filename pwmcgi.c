@@ -1,4 +1,4 @@
-    #include <stdio.h> //标准输入输出定义  
+    #include <stdio.h> //标准输入输出定义    
       
     #include <termios.h> //POSIX 终端控制定义  
       
