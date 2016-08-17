@@ -1,1 +1,17 @@
 #ubuntu commit test
+
+
+#we will discription the s3c2440 to 
+
+Discription：
+This is a small project during a college sophomore .
+The program is mainly based on the hardware Samsung arm platform s3c2440, we must first program the kernel , to pwm buzzer drive programmed to cut off to the kernel , the kernel into linux-2.6.28, pwm driven directory FL2440 / drivers / char / fl2440_pwm.c, some of the specific parameters are as follows.
+
+Cross compiler : cross-3.4.1.tar.bz2
+Kernel : linux-2.6.28.7.tar.bz2
+Root file system : busybox-1.19.4.tar.bz2
+Development Environment : ubuntu 12.0.1
+embedded Web service systems：BoA
+
+
+the other hand specific step and platform instructions way,i will tell another file
